@@ -45,7 +45,7 @@ $(function () {
 
     // portfolio
 
-    $('.tabmenu li').click(function () {
+  $('.tabm  enu li').click(function () {
 
         let idx = $(this).index()
         console.log(idx)

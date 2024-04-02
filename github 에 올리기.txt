@@ -1,0 +1,33 @@
+Yeti(naver) Googlebot(google) Daumoa(daum)
+
+User-agent: *
+Disallow: /
+User-agent: Yeti
+Allow:/
+
+User-agent: *
+Disallow: /private*/
+
+-------------------------------------------------------
+git 처음 올릴때
+
+git init
+
+git add .
+
+git commit -m "first-commit"
+
+git ~~~  주소 ~~~~~
+
+git push origin master
+
+-------------------------------------------------------
+git 수정해서 올릴때
+
+git add .
+
+git status
+
+git commit -m "second commit"
+
+git push origin master

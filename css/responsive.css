@@ -484,3 +484,93 @@
         height: 612px;
     }
 }
+
+@media screen and (max-width: 320px) {
+    html {
+        font-size: 10px;
+    }
+
+    main .section:nth-child(2) .container {
+        width: 260px;
+    }
+
+    .mobile-nav {
+        top: 53px;
+    }
+
+    /* ===== */
+
+    .portfolio .bottom {
+        width: 260px;
+    }
+
+    .portfolio .bottom .top-video .video .mySwiper2 {
+        margin: 0 auto;
+        width: 220px;
+        height: 123.75px;
+    }
+
+    .portfolio .bottom .top-video .video .mySwiper2 .swiper-slide iframe {
+        width: 260px;
+        height: 123.75px;
+    }
+
+    .portfolio .bottom .top-video .video .mySwiper {
+        width: 82%;
+        margin-bottom: 15px;
+    }
+
+    .portfolio .bottom .top-video .video .mySwiper .swiper-wrapper .swiper-slide img {
+        width: 65px;
+        height: 36.5625px;
+    }
+
+    .portfolio .bottom .top-video .video .next {
+        width: 25px;
+        height: 25px;
+        left: 91%;
+        top: 91.5%;
+    }
+
+    .portfolio .bottom .top-video .video .prev {
+        width: 25px;
+        height: 25px;
+        right: 91%;
+        top: 91.5%;
+    }
+
+    /* ===== */
+
+    .portfolioTab {
+        width: 260px;
+    }
+
+    main section .contact {
+        width: 260px;
+    }
+
+    section .contact-me .right {
+        padding-left: 20px;
+    }
+
+    section .contact-me .right .btn {
+        width: 175px;
+    }
+
+    .popup .iframebox {
+        width: 260px;
+        height: 146.25px;
+    }
+
+    .tabitem {
+        height: 573px;
+    }
+
+    .hamburger span {
+        margin-left: 95%
+    }
+
+    .glitch {
+        font-size: 3rem;
+    }
+}
