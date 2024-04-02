@@ -1,0 +1,486 @@
+@media screen and (max-width: 1240px) {
+    html {
+        font-size: 14px;
+    }
+
+    main .section:nth-child(2) .container {
+        width: 992px;
+    }
+
+    .portfolio .bottom {
+        width: 992px;
+    }
+
+    .portfolioTab {
+        width: 992px;
+    }
+
+    main section .contact {
+        width: 992px;
+    }
+
+    .popup .iframebox {
+        width: 992px;
+        height: 558px;
+    }
+
+    .tabitem {
+        height: 606px;
+    }
+
+    .portfolio .bottom .top-video .video .mySwiper2 .swiper-slide iframe {}
+
+    .portfolio .bottom .top-video .video .mySwiper {
+        width: 84%;
+    }
+
+    .portfolio .bottom .top-video .video .mySwiper .swiper-wrapper .swiper-slide img {
+        width: 200px;
+        height: 112.5px;
+    }
+
+    .portfolio .bottom .top-video .video .next {
+        left: 93%;
+    }
+
+    .portfolio .bottom .top-video .video .prev {
+        right: 92.6%;
+    }
+
+
+}
+
+@media screen and (max-width: 992px) {
+    html {
+        font-size: 14px;
+    }
+
+    main .section:nth-child(2) .container {
+        width: 768px;
+        height: auto;
+        border: none;
+        box-shadow: none;
+        background-color: none;
+    }
+
+    /* ====proflie===== */
+
+    /* left */
+
+    main .section:nth-child(2) .container .top-left {
+        width: 100%;
+        height: auto;
+        /* margin-bottom: 20px; */
+        border: none;
+        background-color: none;
+    }
+
+    main .section:nth-child(2) .container .tl-top {
+        width: 100%;
+        padding: 5rem;
+        margin-bottom: 20px;
+        border: 2px solid white;
+    }
+
+
+    main .section:nth-child(2) .container .tl-bottom {
+        width: 100%;
+        padding: 5rem;
+        margin-bottom: 20px;
+        float: left;
+        border: 2px solid white;
+    }
+
+
+
+    main .section:nth-child(2) .container .top-right {}
+
+    /* right */
+
+    main .section:nth-child(2) .container .top-right {
+        width: 100%;
+        height: auto;
+        margin-bottom: 20px;
+        border: 2px solid white;
+    }
+
+    /* bottom */
+
+    main .section:nth-child(2) .container .bottom-left {
+        width: 100%;
+        padding: 5rem;
+        margin-bottom: 20px;
+        border: 2px solid white;
+    }
+
+    main .section:nth-child(2) .container .bottom-middle {
+        width: 100%;
+        padding: 5rem;
+        margin-bottom: 20px;
+        border: 2px solid white;
+    }
+
+    main .section:nth-child(2) .container .bottom-right {
+        width: 100%;
+        padding: 5rem;
+        margin-bottom: 20px;
+        border: 2px solid white;
+    }
+
+    /* =========== */
+
+    .portfolio .bottom {
+        width: 768px;
+        height: auto;
+    }
+
+    .portfolio .bottom .top-video .video .mySwiper2 {
+        margin: 0 auto;
+        width: 700px;
+        height: 393.75px;
+    }
+
+    .portfolio .bottom .top-video .video .mySwiper2 .swiper-slide iframe {
+        width: 700px;
+        height: 393.75px;
+    }
+
+    .portfolio .bottom .top-video .video .mySwiper {
+        width: 84%;
+        margin-bottom: 15px;
+    }
+
+    .portfolio .bottom .top-video .video .mySwiper .swiper-wrapper .swiper-slide img {
+        width: 150px;
+        height: 84.375px;
+    }
+
+    .portfolio .bottom .top-video .video .next {
+        left: 93%;
+    }
+
+    .portfolio .bottom .top-video .video .prev {
+        right: 92.6%;
+    }
+
+    /* =========== */
+
+    .portfolioTab {
+        width: 768px;
+    }
+
+    main section .contact {
+        width: 768px;
+        margin-bottom: 100px;
+        height: auto;
+    }
+
+    section .contact-me .left {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    section .contact-me .right {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .gallery li {
+        display: inline-block;
+        width: 45%;
+        margin-top: 4.5%;
+        margin-right: 2.5%;
+    }
+
+    .gallery li:nth-child(-n+2) {
+        margin-top: none;
+    }
+
+    .gallery li:nth-child(3n) {
+        margin-right: 2.5%;
+    }
+
+    .gallery li:nth-child(2n) {
+        margin-right: 0;
+    }
+
+    .popup .iframebox {
+        width: 768px;
+        height: 432px;
+    }
+
+    .tabitem {
+        height: 607px;
+    }
+
+}
+
+/* portfolio contact 바꾸기 */
+
+@media screen and (max-width: 768px) {
+    html {
+        font-size: 13px;
+    }
+
+    main .section:nth-child(2) .container {
+        width: 576px;
+    }
+
+    /* ===== */
+    .portfolio .bottom {
+        width: 576px;
+    }
+
+    .portfolio .bottom .top-video .video .mySwiper2 {
+        margin: 0 auto;
+        width: 500px;
+        height: 281.25px;
+    }
+
+    .portfolio .bottom .top-video .video .mySwiper2 .swiper-slide iframe {
+        width: 500px;
+        height: 281.25px;
+    }
+
+    .portfolio .bottom .top-video .video .mySwiper {
+        width: 75%;
+        margin-bottom: 15px;
+    }
+
+    .portfolio .bottom .top-video .video .mySwiper .swiper-wrapper .swiper-slide img {
+        width: 100px;
+        height: 56.25px;
+    }
+
+    .portfolio .bottom .top-video .video .next {
+        left: 89%;
+        top: 91.5%;
+    }
+
+    .portfolio .bottom .top-video .video .prev {
+        right: 89%;
+        top: 91.5%;
+    }
+
+    /* ===== */
+
+    .portfolioTab {
+        width: 576px;
+    }
+
+    main section .contact {
+        width: 576px;
+    }
+
+    section .contact-me .right {
+        padding-left: 45px;
+    }
+
+    section .contact-me .right .btn {
+        width: 425.69px;
+    }
+
+    .popup .iframebox {
+        width: 576px;
+        height: 324px;
+    }
+
+    .tabitem {
+        height: 608px;
+    }
+
+
+
+}
+
+/* ===== */
+
+@media screen and (max-width: 576px) {
+    html {
+        font-size: 12px;
+    }
+
+    main .section:nth-child(2) .container {
+        width: 400px;
+    }
+
+    /* ===== */
+
+    .portfolio .bottom {
+        width: 400px;
+    }
+
+    .portfolio .bottom .top-video .video .mySwiper2 {
+        margin: 0 auto;
+        width: 360px;
+        height: 202.5px;
+    }
+
+    .portfolio .bottom .top-video .video .mySwiper2 .swiper-slide iframe {
+        width: 360px;
+        height: 202.5px;
+    }
+
+    .portfolio .bottom .top-video .video .mySwiper {
+        width: 82%;
+        margin-bottom: 15px;
+    }
+
+    .portfolio .bottom .top-video .video .mySwiper .swiper-wrapper .swiper-slide img {
+        width: 80px;
+        height: 45px;
+    }
+
+    .portfolio .bottom .top-video .video .next {
+        width: 30px;
+        height: 30px;
+        left: 91%;
+        top: 91.5%;
+    }
+
+    .portfolio .bottom .top-video .video .prev {
+        width: 30px;
+        height: 30px;
+        right: 91%;
+        top: 91.5%;
+    }
+
+    /* ===== */
+
+    .portfolioTab {
+        width: 400px;
+    }
+
+    main section .contact {
+        width: 400px;
+    }
+
+    .gallery li {
+        display: inline-block;
+        width: 100%;
+        margin-top: 8%;
+        margin-right: none;
+    }
+
+    .gallery li:nth-child(2) {
+        margin-top: 8%;
+    }
+
+    .gallery li:nth-child(3) {
+        margin-top: 8%;
+    }
+
+    section .contact-me .right {
+        padding-left: 30px;
+    }
+
+    section .contact-me .right .btn {
+        width: 284.39px;
+    }
+
+    .popup .iframebox {
+        width: 400px;
+        height: 255px;
+    }
+
+    .tabitem {
+        height: 611px;
+    }
+
+    /* ----- */
+
+    .page-menu {
+        display: none;
+    }
+
+    .hamburger {
+        display: block;
+    }
+
+    .mobile-nav {
+        /* display: block; */
+    }
+
+}
+
+@media screen and (max-width: 400px) {
+    html {
+        font-size: 11px;
+    }
+
+    main .section:nth-child(2) .container {
+        width: 320px;
+    }
+
+    .mobile-nav {
+        top: 53px;
+    }
+
+    /* ===== */
+
+    .portfolio .bottom {
+        width: 320px;
+    }
+
+    .portfolio .bottom .top-video .video .mySwiper2 {
+        margin: 0 auto;
+        width: 280px;
+        height: 157.5px;
+    }
+
+    .portfolio .bottom .top-video .video .mySwiper2 .swiper-slide iframe {
+        width: 280px;
+        height: 157.5px;
+    }
+
+    .portfolio .bottom .top-video .video .mySwiper {
+        width: 82%;
+        margin-bottom: 15px;
+    }
+
+    .portfolio .bottom .top-video .video .mySwiper .swiper-wrapper .swiper-slide img {
+        width: 65px;
+        height: 36.5625px;
+    }
+
+    .portfolio .bottom .top-video .video .next {
+        width: 25px;
+        height: 25px;
+        left: 91%;
+        top: 91.5%;
+    }
+
+    .portfolio .bottom .top-video .video .prev {
+        width: 25px;
+        height: 25px;
+        right: 91%;
+        top: 91.5%;
+    }
+
+    /* ===== */
+
+    .portfolioTab {
+        width: 320px;
+    }
+
+    main section .contact {
+        width: 320px;
+    }
+
+    section .contact-me .right {
+        padding-left: 26px;
+    }
+
+    section .contact-me .right .btn {
+        width: 219.59px;
+    }
+
+    .popup .iframebox {
+        width: 320px;
+        height: 180px;
+    }
+
+    .tabitem {
+        height: 612px;
+    }
+}
