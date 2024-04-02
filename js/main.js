@@ -77,21 +77,6 @@ $(function () {
         $('.mobile-nav').slideToggle()
     })
 
-    // popup
-
-    $('#popup').hide();
-
-    $('.clip').click(function() {
-        $('#popup').show();
-        $('body').css('overflow', 'hidden'); 
-    });
-
-    $('#closeButton').click(function() {
-        $('#popup').hide();
-        $('body').css('overflow', ''); 
-    });
-
-
 })
 
 
